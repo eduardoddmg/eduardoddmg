@@ -1,6 +1,6 @@
 ### Olá, meu nome é Eduardo Melo!
 
-- REACTJS | NODEJS | EXPRESS | MONGODB | PYTHON
+- Desenvolvedor de Software
 - 2º período de Ciência da Computação
  <div align="center">
   <a href="https://github.com/rafaballerini">
