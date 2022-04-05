@@ -1,6 +1,6 @@
 ### Olá, meu nome é Eduardo Melo!
 
-- Estudando Javascript
+- REACTJS | NODEJS | EXPRESS | MONGODB | PYTHON
 - 1º período de Ciência da Computação
  <div align="center">
   <a href="https://github.com/rafaballerini">
