@@ -1,6 +1,6 @@
 ### Olá, meu nome é Eduardo Melo!
 
-- Sotware Developer
+- Software Developer
 - Student Computer Science
 - React JS | React Native | Typescript
 - Actually, I'm studying React Native and TypeScript
