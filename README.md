@@ -1,9 +1,15 @@
-### Olá, meu nome é Eduardo Melo!
+### Oiiiii!
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://www.linkedin.com/in/eduardo-melo-b15735222/">
+  <img align="left" alt="Eduardo Melo Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-- Desenvolvedor de Software
-- Estudante de Ciência da Computaçao - Universidade Federal de Alagoas
-- React JS | React Native | Typescript | NodeJS | Express 
-- Atualmente, estou estudando ReactJS e NodeJS
+<br><br>
+
+💻 Desenvolvedor de Software
+👨‍🎓 Estudante de Ciência da Computaçao - Universidade Federal de Alagoas
+🚀 Estudando ReactJS, Typescript e NodeJS (Sempre rsrs)
+🎶 Meu hobby favorito é ouvir música
 
  <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoddmg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
