@@ -1,9 +1,9 @@
 ### Olá, meu nome é Eduardo Melo!
 
-- Software Developer
-- Student Computer Science
-- React JS | React Native | Typescript
-- Actually, I'm studying React Native and TypeScript
+- Desenvolvedor de Software
+- Estudante de Ciência da Computaçao - Universidade Federal de Alagoas
+- React JS | React Native | Typescript | NodeJS | Express 
+- Atualmente, estou estudando ReactJS e NodeJS
 
  <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoddmg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
