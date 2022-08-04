@@ -8,9 +8,8 @@
 👨‍🎓 Science Computer Student - Universidade Federal de Alagoas<br>
 🚀 ReactJS | Typescript | NodeJS <br>
 
- <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoddmg"/>
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoddmg"/>
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
