@@ -1,7 +1,7 @@
 ### Olá!
-💻 Software Engineer <br>
-👨‍🎓 Science Computer Student - Universidade Federal de Alagoas<br>
-🚀 ReactJS | Typescript | NodeJS <br>
+💻 Engenheiro de Software <br>
+👨‍🎓 Estudante de Ciência da Computação - Universidade Federal de Alagoas<br>
+🚀 PHP | Python | NodeJS <br>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoddmg"/>
 
