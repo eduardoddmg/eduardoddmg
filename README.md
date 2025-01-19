@@ -1,5 +1,5 @@
 ### Olá!
-💻 Engenheiro de Software <br>
+💻 Desenvolvedor de Software <br>
 👨‍🎓 Estudante de Ciência da Computação - Universidade Federal de Alagoas<br>
 🚀 PHP | Python | NodeJS <br>
 
